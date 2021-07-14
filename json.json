@@ -1,4 +1,6 @@
-[
+{
+    "title": "Adhithi's Blog",
+    "description": "Fetch remote data from Adhithi's blog",
     "studnets": [
         {
             "id": 10,
@@ -171,4 +173,4 @@
             "updated_at": "2021-06-22 13:58:07"
         }
     ]
-]
+}
